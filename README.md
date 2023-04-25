@@ -1,15 +1,15 @@
-#README file for Bruce Wayne's CV HTML page#
+# README file for Bruce Wayne's CV HTML page#
 
 This HTML page is a Curriculum Vitae (CV) for Bruce Wayne, a software engineer. The page is styled with Bootstrap, a popular CSS framework that makes it easy to create responsive and mobile-first designs.
 
-The page consists of several sections, including:
+## The page consists of several sections, including:
 
-    A bio section that describes Bruce's background and experience.
-    A contact information section that provides Bruce's personal details and contact information.
-    A skills and competencies section that lists Bruce's technical skills and abilities.
-    An education section that lists Bruce's academic qualifications.
-    A work experience section that details Bruce's previous work experience.
-    A projects section that highlights some of the projects Bruce has worked on.
+   * A bio section that describes Bruce's background and experience.
+   * A contact information section that provides Bruce's personal details and contact information.
+   * A skills and competencies section that lists Bruce's technical skills and abilities.
+   * An education section that lists Bruce's academic qualifications.
+   * A work experience section that details Bruce's previous work experience.
+   * A projects section that highlights some of the projects Bruce has worked on.
 
 The page is designed to be visually appealing and easy to read, with a simple layout and color scheme. The sections are clearly labeled and organized to make it easy for potential employers or clients to find the information they need.
 
